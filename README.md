@@ -1,7 +1,4 @@
-# Analysis_Shopping_Trends
-This project includes data analysis of shopping trends and customer's behaviour using descriptive and inferential analysis.
-
-Check a file "Shopping_trends_presentation.pdf" to see a presentation of this analysis or go below to see slices of that presentation with a source code and plots.
+# Identifying Shopping Trends using Data Analysis
 
 ## Table of contents :
 * [Introduction](#introduction-)
